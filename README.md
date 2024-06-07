@@ -42,4 +42,4 @@ At the moment, we serve the `notebook` setting.
 ## Contact us: 
 
 + Gmail: minh.leduc.0210@gmail.com
-+ LinkedIn: 
++ LinkedIn: https://www.linkedin.com/in/minh-le-duc-a62863172/
